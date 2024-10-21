@@ -1,0 +1,8 @@
+bandit0
+
+host: bandit.labs.overthewire.org
+puerto: 2220
+
+usuario/contraseña
+bandit0:bandit0
+objetivo: conectarnos al SHH al host y buscar un archivo
