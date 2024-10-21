@@ -5,4 +5,8 @@ puerto: 2220
 
 usuario/contraseña
 bandit0:bandit0
+
+ssh bandit0@bandit.labs.overthewire.org -p 2220
+
+
 objetivo: conectarnos al SHH al host y buscar un archivo
