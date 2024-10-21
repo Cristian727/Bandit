@@ -6,5 +6,10 @@ puerto: 2220
 usuario/contraseña
 bandit0:bandit0
 
-ssh bandit0@bandit.labs.overthewire.org -p 2220
 
+~$ sudo apt install curl
+~$ curl cheat.sh
+~$ ssh bandit0@bandit.labs.overthewire.org
+
+
+~$ ssh bandit0@bandit.labs.overthewire.org -p 2220
